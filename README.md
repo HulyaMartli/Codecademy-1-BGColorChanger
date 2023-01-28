@@ -6,7 +6,9 @@ When the user clicks the button, the background color of the page changes random
 
 ## Preview
 
-![PagePreview](https://lh3.googleusercontent.com/pw/AMWts8BMqU3FDq_sRy4zwcBWXgFKGZRY91SNC57zNNN9g_HaeXao0Q1kTtBlRByyr6-U_ueNDF1E2MY5S3iSywKFxH7LYKqs9x4rrJht3VxJZ5zGuo46ySEn5YLeCyad3DriRJl09e6VJl-xo8kE-N_Vyvdfeg=w713-h474-no?authuser=0)
+<img src="https://lh3.googleusercontent.com/pw/AMWts8Ai5rjDcIGrgdVaDAcbGrvCmFIjNmumvJN4yRNc1_UNfVL7zFNlBWo5XAnVCI1aphiWdJ7m1GtvC4qVZqXr8tW3M5HzhQiu92zRjtv9r92_S_IzWTqAFQi7GVHLnqif6dvM-xsWaVUHved3Jp0CPOGAyw=w746-h420-no?authuser=0" alt="Preview-1" width="400">
+
+<img src="https://lh3.googleusercontent.com/pw/AMWts8CukGnZtc4tQ7y8u36kzY6OidR5FJ6bNZGdu2F21a-qKyZYEqC6utD2rbR4sGAEErPYHJTZZvhccY5FPcgROC0Tiiwt5V3EAZVdlTeCwToBmjs1cgFmq4mY9_etlTQsV2pwOer6kCl4umSbRRwcJbd9Gw=w615-h346-no?authuser=0" alt="Preview-2" width="400">
 
 ## [Codecademy - Front-end Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
 
