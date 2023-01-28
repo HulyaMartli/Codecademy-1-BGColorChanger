@@ -1,7 +1,5 @@
 button {
-    display: block;
-    margin-top: 50%;
-    margin-left: 25%;
+    margin: 25%;
     padding: 20px;
     width: 50%;
     border-radius: 20px;
