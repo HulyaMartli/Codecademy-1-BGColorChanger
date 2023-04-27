@@ -28,4 +28,4 @@ When the user clicks the button, the background color of the page changes random
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 
